@@ -9,6 +9,12 @@
   "author": "ajulka",
   "license": "ISC",
   "dependencies": {
-    "mongodb": "^3.2.7"
+    "bcryptjs": "^2.4.3",
+    "decrypt": "0.0.1",
+    "express": "^4.17.1",
+    "jsonwebtoken": "^8.5.1",
+    "mongodb": "^3.2.7",
+    "mongoose": "^5.5.15",
+    "validator": "^11.0.0"
   }
 }
